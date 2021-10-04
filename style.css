@@ -1,3 +1,70 @@
-h1{
-  text-align: center;
+#mainTitle{
+  background: linear-gradient(180deg, #E2E6E7, #E2E6E7, #E2E6E7, white);
+  border-radius: 20px 20px 0px 0px;
+  color: #114450;
 }
+
+#title{
+  text-align: center;
+  margin: auto;
+}
+
+#tagline{
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+
+}
+
+
+html{
+  background-color: white;
+  width: 80%;
+  margin: auto;
+  color: #114450;
+}
+
+main{
+  border-style: double;
+  border-radius: 20px;
+  border-color: #bdbfc0;
+}
+
+h2{
+  color: #114450;
+}
+
+#info-brief{
+  color: #114450;
+}
+
+ #img-caption{
+   padding-top: 20px;
+   text-align: center;
+ }
+
+  #image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 10px;
+    border-style: groove;
+  }
+
+  #tribute-info{
+    padding: 20px;
+  }
+
+  li{
+    padding: 5px;
+  }
+
+
+  #link-group{
+    /*background: linear-gradient(180deg,  white, #E2E6E7, white);*/
+    padding: 0px 20px 0px 20px;
+}
+
+
+
